@@ -58,6 +58,3 @@ https://github.com/ionic-team/ionic-vue-conference-app
 | Material Design  | iOS  |
 | -----------------| -----|
 | ![Android About](/resources/screenshots/android-about.png) | ![iOS About](/resources/screenshots/ios-about.png) |
-
-
-# app-react-congress
