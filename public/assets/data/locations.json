@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Egibide",
+    "lat": 42.8674965,
+    "lng": -2.6792352
+  }, {
+    "id": 2,
+    "name": "CIFP Mendizabala LHII",
+    "lat": 42.835663,
+    "lng": -2.685052
+  }, {
+    "id": 3,
+    "name": "Egibide-Molinuevo",
+    "lat": 42.853348,
+    "lng": -2.6716
+  }, {
+    "id": 4,
+    "name": "CIFP Ciudad Jardín LHII",
+    "lat": 42.837045,
+    "lng": -2.6771
+  }
+]
